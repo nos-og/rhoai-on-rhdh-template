@@ -20,7 +20,7 @@ spec:
         githubOrg:
           title: GitHub Organization
           type: string
-          default: stefan-bergstein
+          default: nos-og
         description:
           title: Description
           type: string
@@ -36,7 +36,7 @@ spec:
           title: Cluster Id
           type: string
           description: Id of the cluster
-          default: .apps.ocp5.stormshift.coe.muc.redhat.com
+          default: .apps.cap.techlab.netone.co.jp
         namespace: 
           title: Namespace
           type: string
